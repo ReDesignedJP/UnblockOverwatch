@@ -53,6 +53,7 @@ namespace UnblockOverwatch
 
             notifyIcon1.Visible = false;
             timer.Stop();
+            Process.Start(@"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\오버워치\오버워치.lnk");
         }
     }
 }
