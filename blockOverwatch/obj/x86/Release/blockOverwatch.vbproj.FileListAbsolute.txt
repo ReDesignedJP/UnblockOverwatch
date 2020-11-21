@@ -1,9 +1,0 @@
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\bin\Release\blockOverwatch.exe
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\bin\Release\blockOverwatch.pdb
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\bin\Release\blockOverwatch.xml
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.Form1.resources
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.Resources.resources
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.vbproj.GenerateResource.Cache
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.exe
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.xml
-c:\users\owner\documents\visual studio 2010\Projects\blockOverwatch\blockOverwatch\obj\x86\Release\blockOverwatch.pdb
